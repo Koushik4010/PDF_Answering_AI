@@ -1,0 +1,7 @@
+langchain
+huggingface-hub
+transformers
+pdfplumber
+torch
+bert-score
+sentence-transformers
